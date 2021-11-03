@@ -1,0 +1,12 @@
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\bin\Release\net5.0\RssLibrary.deps.json
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\bin\Release\net5.0\RssLibrary.dll
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\bin\Release\net5.0\ref\RssLibrary.dll
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\bin\Release\net5.0\RssLibrary.pdb
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\RssLibrary.csproj.AssemblyReference.cache
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\RssLibrary.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\RssLibrary.AssemblyInfoInputs.cache
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\RssLibrary.AssemblyInfo.cs
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\RssLibrary.csproj.CoreCompileInputs.cache
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\RssLibrary.dll
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\ref\RssLibrary.dll
+Z:\SharedFolder\MyProjects\c#\C#\Rss\RssLibrary\obj\Release\net5.0\RssLibrary.pdb

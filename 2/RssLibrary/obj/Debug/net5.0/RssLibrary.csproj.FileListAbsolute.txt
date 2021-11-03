@@ -1,0 +1,12 @@
+/home/pi/Projects/Rss/RssLibrary/bin/Debug/net5.0/RssLibrary.deps.json
+/home/pi/Projects/Rss/RssLibrary/bin/Debug/net5.0/RssLibrary.dll
+/home/pi/Projects/Rss/RssLibrary/bin/Debug/net5.0/ref/RssLibrary.dll
+/home/pi/Projects/Rss/RssLibrary/bin/Debug/net5.0/RssLibrary.pdb
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/RssLibrary.csproj.AssemblyReference.cache
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/RssLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/RssLibrary.AssemblyInfoInputs.cache
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/RssLibrary.AssemblyInfo.cs
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/RssLibrary.csproj.CoreCompileInputs.cache
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/RssLibrary.dll
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/ref/RssLibrary.dll
+/home/pi/Projects/Rss/RssLibrary/obj/Debug/net5.0/RssLibrary.pdb
